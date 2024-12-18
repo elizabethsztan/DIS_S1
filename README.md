@@ -49,7 +49,7 @@ eszt2/
 ### 1. Clone the Repository
 ```bash
 git clone [repository-url]
-cd ESZT2
+cd eszt2
 ```
 
 ### 2. Docker Setup
