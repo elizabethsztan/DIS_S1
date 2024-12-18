@@ -11,12 +11,21 @@ The following large language model tools were used supportively in programming a
 Usage details:
 - Web browser versions of the chatbots were used (no IDE integration)
 - All core algorithms were produced independently
-- AI assistance was primarily used for:
+- LLM assistance was primarily used for:
   - Plotting
   - Code optimisation
   - Bug fixing
   - Adding comments
-  - The accept-reject generator optimization in Part D (base algorithm written independently, AI used for batch processing)
+
+- Specifically
+  - The accept-reject generator optimisation in Part D (base algorithm written independently, LLMs used for batch processing)
+  - Prototyping the function that produces plots for the lambda parameter 
+  - Making the README.md template
+  - Making the Dockerfile
+  - Plotting the 3D joint distribution 
+  - Prototyping the function that reads data from the .csv files 
+
+All of the other part of the code did not use these tools.
 
 Example prompts used:
 - "Help me optimise this code so it runs faster"
