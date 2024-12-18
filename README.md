@@ -2,6 +2,26 @@
 
 This is the repository containing the code and report for my S1 Coursework.
 
+## LLM Usage Declaration
+
+The following large language model tools were used supportively in programming and report writing:
+- Claude 3.5 Sonnet
+- ChatGPT 4.0
+
+Usage details:
+- Web browser versions of the chatbots were used (no IDE integration)
+- All core algorithms were produced independently
+- AI assistance was primarily used for:
+  - Plotting
+  - Code optimisation
+  - Bug fixing
+  - Adding comments
+  - The accept-reject generator optimization in Part D (base algorithm written independently, AI used for batch processing)
+
+Example prompts used:
+- "Help me optimise this code so it runs faster"
+- "How do I produce 9 X 3 subplots?"
+
 ## Repository Structure
 ```
 eszt2/
